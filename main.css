@@ -35,10 +35,10 @@ body {
 
 .content img {
   align-self: center;
-  width: 80%;
+  width: 85%;
   height: auto;
-  border-radius: 12%;
-  padding: 20px 20px 7px 20px;
+  border-radius: 4%;
+  margin: 15px 25px 15px 25px;
 }
 
 .attribution {
