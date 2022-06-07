@@ -20,8 +20,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
- <img src="./images/desktop_screenshot" alt="desktop screenshot" />
- <img src="./images/mobile_screenshot" alt="mobile screenshot" />
+<p>Desktop</p>
+ <img src='/images/desktop_screeenshot.png'>
+ <p>Mobile</p>
+ <img src="./images/mobile_screenshot.png">
 
 ### Links
 
